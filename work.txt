@@ -1,44 +1,30 @@
 STRML.net
 =========
 
-Samuel Reed
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
+Devansh Gulhane
+Founder, grabBlocks
+Full-Stack / NodeJS / React / React Native / Android /Ios
 
 Contact
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+* devagul93@gmail.com
+* @devagul93 on Twitter, Instagram
+
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
-and of course...
-* www.strml.net
+* www.grabblocks.com
+* www.devanshgulhane.com
 
-Open Source
+Other Projects
 -----------
-
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+* Ola
+* ServiceBell
+* Zimplify
+* Splitify
+* Rudralife
+* 
 
 
