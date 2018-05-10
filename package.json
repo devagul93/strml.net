@@ -8,9 +8,7 @@
     "build": "webpack .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --open",
-    "watch": "webpack --progress --watch",
-   
-
+    "watch": "webpack --progress --watch"
   },
   "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
   "license": "MIT",
