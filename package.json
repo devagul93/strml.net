@@ -4,12 +4,10 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node server.js",
     "build": "webpack .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --open",
-    "watch": "webpack --progress --watch",
-    "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress"
+    "watch": "webpack --progress --watch"
   },
   "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
   "license": "MIT",
