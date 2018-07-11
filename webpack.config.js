@@ -28,7 +28,7 @@ module.exports = {
     contentBase: __dirname,
     publicPath: '/dist',
     compress: true,
-    port: 4003,
+    port: process.env.PORT||4003,
   },
   plugins: [
     new webpack.optimize.OccurrenceOrderPlugin(),
