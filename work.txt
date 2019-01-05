@@ -7,9 +7,10 @@ Full-Stack / NodeJS / React / React Native / Android /Ios
 
 Contact
 -------
-
+* hello@devanshgulhane.com
 * devagul93@gmail.com
 * @devagul93 on Twitter, Instagram
+* +919986290998
 
 
 Projects

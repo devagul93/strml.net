@@ -32,7 +32,7 @@ module.exports = {
   },
   plugins: [
     new webpack.optimize.OccurrenceOrderPlugin(),
-    new webpack.optimize.UglifyJsPlugin({compress: {warnings: false}})
+    new webpack.optimize.UglifyJsPlugin({ssourceMap: true, minimize: true, compress: {warnings: false}})
   ],
   resolve: {
   }
